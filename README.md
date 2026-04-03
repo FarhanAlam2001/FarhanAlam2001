@@ -3,9 +3,9 @@
 <h3 align="center">I am a Postgraduate. I have a Master of Science degree in Biotechnology and i am a computer programmer too who does full stack web development, data science, data analysis and software development.</h3>
 
 - 📫 How to reach me **firdush12@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/JimmyAlam2000**
+- 👨‍💻 All of my projects are available at **https://github.com/FarhanAlam2001**
 - 📄My Linkedin profile is **https://www.linkedin.com/in/md-farhan-rusafi-alam-a71873288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbOv3rSz0S0isgZe7py9ffw%3D%3D**
-- ⚡This is my Website **https://jimmyalam2000.github.io/Farhans_PortFolio_Website/**
+- ⚡This is my Website **https://farhanalam2001.github.io/Farhans_PortFolio_Website/**
 
 <div> <a href="https://www.linkedin.com/in/md-farhan-rusafi-alam-a71873288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvItFPmwnRbmnsKZVYwKzoA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/JimmyAlam2000" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
